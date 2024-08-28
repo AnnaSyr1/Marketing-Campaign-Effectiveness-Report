@@ -46,5 +46,5 @@ The analysis was done in Jupyter Notebook, the graphics were made in PowerBI and
 
 ## 📈 Summary 
 
-The presentation of this project was presented on the graduation day of the Bootcamp and here you can find [the YouTube video](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Additionally, we created a website for the Advertising Agency that we were making this report for, the [website](https://gdimou9.github.io/EdgeMedia.github.io/).
+The presentation of this project was presented on the graduation day of the Bootcamp and here you can find [the YouTube video](https://www.youtube.com/watch?v=iYiF_UlXNPw&t=2s). Additionally, we created a website for the Advertising Agency that we were making this report for, the [website](https://gdimou9.github.io/EdgeMedia.github.io/).
  
