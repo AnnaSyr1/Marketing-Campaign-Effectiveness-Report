@@ -27,13 +27,13 @@ The name used and the dataset are not related and are used only for fiction purp
 ## 🔬 Main Analysis
 
 We decided to categorize and analyze the following:
-Audience Segmentation (Age and Gender groups)
-Performance of Audience Groups
-Advertising Performance for each Channel, 
-Performance for each Campaign Type
-Customer Segmentations
-Targeted Locations
-Revenue Performance
+- Audience Segmentation (Age and Gender groups)
+- Performance of Audience Groups
+- Advertising Performance for each Channel, 
+- Performance for each Campaign Type
+- Customer Segmentations
+- Targeted Locations
+- Revenue Performance
 
 To conclude, we summarized the most important points and provided a few recommendations for future steps. 
 
