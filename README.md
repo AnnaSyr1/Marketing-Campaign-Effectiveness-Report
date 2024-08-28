@@ -10,7 +10,7 @@ The project is about making an Annual Marketing Campaigns Effectiveness Report f
 
 ## 📂 Dataset 
 
-The dataset used is the [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data), which includes data for 4 companies, and out of them, we focused the analysis on the Alpha_Innovations_Dataset.xlsx . 
+The dataset used is the [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data), which includes data for 4 companies, and out of them, we focused the analysis on the `Alpha_Innovations_Dataset.xlsx`. 
 
 📌 ***Please keep in mind that, the dataset used in this analysis is fictional but representative of real-world marketing campaign data.***
 ## ⚙️ Prerequisites 
